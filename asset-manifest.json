@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/InMyFeels-/static/css/main.50f54316.chunk.css",
-    "main.js": "/InMyFeels-/static/js/main.2c930313.chunk.js",
-    "main.js.map": "/InMyFeels-/static/js/main.2c930313.chunk.js.map",
+    "main.js": "/InMyFeels-/static/js/main.8c5d2f67.chunk.js",
+    "main.js.map": "/InMyFeels-/static/js/main.8c5d2f67.chunk.js.map",
     "runtime-main.js": "/InMyFeels-/static/js/runtime-main.92623e8c.js",
     "runtime-main.js.map": "/InMyFeels-/static/js/runtime-main.92623e8c.js.map",
     "static/js/2.053dd012.chunk.js": "/InMyFeels-/static/js/2.053dd012.chunk.js",
     "static/js/2.053dd012.chunk.js.map": "/InMyFeels-/static/js/2.053dd012.chunk.js.map",
     "index.html": "/InMyFeels-/index.html",
-    "precache-manifest.3ee2f516fc69b64790a83e8a574f33af.js": "/InMyFeels-/precache-manifest.3ee2f516fc69b64790a83e8a574f33af.js",
+    "precache-manifest.96d14944292a371bd18e4bcbea263f6e.js": "/InMyFeels-/precache-manifest.96d14944292a371bd18e4bcbea263f6e.js",
     "service-worker.js": "/InMyFeels-/service-worker.js",
     "static/css/main.50f54316.chunk.css.map": "/InMyFeels-/static/css/main.50f54316.chunk.css.map",
     "static/js/2.053dd012.chunk.js.LICENSE.txt": "/InMyFeels-/static/js/2.053dd012.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.92623e8c.js",
     "static/js/2.053dd012.chunk.js",
     "static/css/main.50f54316.chunk.css",
-    "static/js/main.2c930313.chunk.js"
+    "static/js/main.8c5d2f67.chunk.js"
   ]
 }
