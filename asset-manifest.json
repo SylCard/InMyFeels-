@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SylCard/InMyFeels-/static/css/main.50f54316.chunk.css",
-    "main.js": "/SylCard/InMyFeels-/static/js/main.9e74ae97.chunk.js",
-    "main.js.map": "/SylCard/InMyFeels-/static/js/main.9e74ae97.chunk.js.map",
-    "runtime-main.js": "/SylCard/InMyFeels-/static/js/runtime-main.f766d464.js",
-    "runtime-main.js.map": "/SylCard/InMyFeels-/static/js/runtime-main.f766d464.js.map",
-    "static/js/2.053dd012.chunk.js": "/SylCard/InMyFeels-/static/js/2.053dd012.chunk.js",
-    "static/js/2.053dd012.chunk.js.map": "/SylCard/InMyFeels-/static/js/2.053dd012.chunk.js.map",
-    "index.html": "/SylCard/InMyFeels-/index.html",
-    "precache-manifest.6fc94902ac662216197842e30b2441b0.js": "/SylCard/InMyFeels-/precache-manifest.6fc94902ac662216197842e30b2441b0.js",
-    "service-worker.js": "/SylCard/InMyFeels-/service-worker.js",
-    "static/css/main.50f54316.chunk.css.map": "/SylCard/InMyFeels-/static/css/main.50f54316.chunk.css.map",
-    "static/js/2.053dd012.chunk.js.LICENSE.txt": "/SylCard/InMyFeels-/static/js/2.053dd012.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/SylCard/InMyFeels-/static/media/logo.5d5d9eef.svg"
+    "main.css": "/InMyFeels-/static/css/main.50f54316.chunk.css",
+    "main.js": "/InMyFeels-/static/js/main.bcfee808.chunk.js",
+    "main.js.map": "/InMyFeels-/static/js/main.bcfee808.chunk.js.map",
+    "runtime-main.js": "/InMyFeels-/static/js/runtime-main.92623e8c.js",
+    "runtime-main.js.map": "/InMyFeels-/static/js/runtime-main.92623e8c.js.map",
+    "static/js/2.053dd012.chunk.js": "/InMyFeels-/static/js/2.053dd012.chunk.js",
+    "static/js/2.053dd012.chunk.js.map": "/InMyFeels-/static/js/2.053dd012.chunk.js.map",
+    "index.html": "/InMyFeels-/index.html",
+    "precache-manifest.269d34baaddb0c60d970495a1093b2e9.js": "/InMyFeels-/precache-manifest.269d34baaddb0c60d970495a1093b2e9.js",
+    "service-worker.js": "/InMyFeels-/service-worker.js",
+    "static/css/main.50f54316.chunk.css.map": "/InMyFeels-/static/css/main.50f54316.chunk.css.map",
+    "static/js/2.053dd012.chunk.js.LICENSE.txt": "/InMyFeels-/static/js/2.053dd012.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/InMyFeels-/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f766d464.js",
+    "static/js/runtime-main.92623e8c.js",
     "static/js/2.053dd012.chunk.js",
     "static/css/main.50f54316.chunk.css",
-    "static/js/main.9e74ae97.chunk.js"
+    "static/js/main.bcfee808.chunk.js"
   ]
 }
