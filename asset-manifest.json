@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SylCard/InMyFeels-/static/css/main.50f54316.chunk.css",
+    "main.js": "/SylCard/InMyFeels-/static/js/main.9e74ae97.chunk.js",
+    "main.js.map": "/SylCard/InMyFeels-/static/js/main.9e74ae97.chunk.js.map",
+    "runtime-main.js": "/SylCard/InMyFeels-/static/js/runtime-main.f766d464.js",
+    "runtime-main.js.map": "/SylCard/InMyFeels-/static/js/runtime-main.f766d464.js.map",
+    "static/js/2.053dd012.chunk.js": "/SylCard/InMyFeels-/static/js/2.053dd012.chunk.js",
+    "static/js/2.053dd012.chunk.js.map": "/SylCard/InMyFeels-/static/js/2.053dd012.chunk.js.map",
+    "index.html": "/SylCard/InMyFeels-/index.html",
+    "precache-manifest.6fc94902ac662216197842e30b2441b0.js": "/SylCard/InMyFeels-/precache-manifest.6fc94902ac662216197842e30b2441b0.js",
+    "service-worker.js": "/SylCard/InMyFeels-/service-worker.js",
+    "static/css/main.50f54316.chunk.css.map": "/SylCard/InMyFeels-/static/css/main.50f54316.chunk.css.map",
+    "static/js/2.053dd012.chunk.js.LICENSE.txt": "/SylCard/InMyFeels-/static/js/2.053dd012.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SylCard/InMyFeels-/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f766d464.js",
+    "static/js/2.053dd012.chunk.js",
+    "static/css/main.50f54316.chunk.css",
+    "static/js/main.9e74ae97.chunk.js"
+  ]
+}
