@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58a3ec312218ecc5c09fbb320db53dd2",
+    "revision": "6ca355d0cfc63f615a85c1fc3fbcd5be",
     "url": "/InMyFeels-/index.html"
   },
   {
-    "revision": "6470eaf7dafc7f9cca54",
+    "revision": "8334a1e67d7276da10d3",
     "url": "/InMyFeels-/static/css/main.50f54316.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/InMyFeels-/static/js/2.053dd012.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6470eaf7dafc7f9cca54",
-    "url": "/InMyFeels-/static/js/main.79f3f168.chunk.js"
+    "revision": "8334a1e67d7276da10d3",
+    "url": "/InMyFeels-/static/js/main.878cc407.chunk.js"
   },
   {
     "revision": "958d70f1433b807deab7",
